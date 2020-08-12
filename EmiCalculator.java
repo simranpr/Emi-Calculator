@@ -1,5 +1,5 @@
-//*** Issue --- Child class instance is not able to access  Parent class method. ***
-
+/*This program takes the details of the product the user has purchased on emi and 
+ gives Emi, Total Interest and Total Amount to be paid by him*/
 
 import java.util.*;
 class Product
